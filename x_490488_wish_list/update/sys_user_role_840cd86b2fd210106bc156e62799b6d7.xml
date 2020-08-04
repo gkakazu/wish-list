@@ -2,7 +2,7 @@
     <sys_user_role action="INSERT_OR_UPDATE">
         <assignable_by/>
         <can_delegate>true</can_delegate>
-        <description/>
+        <description>Testing</description>
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
@@ -14,13 +14,13 @@
         <sys_created_by>admin.gkakazu</sys_created_by>
         <sys_created_on>2020-08-04 02:31:58</sys_created_on>
         <sys_id>840cd86b2fd210106bc156e62799b6d7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_490488_wish_list.user</sys_name>
         <sys_package display_value="Wish List" source="x_490488_wish_list">59db94e32f1610106bc156e62799b601</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wish List">59db94e32f1610106bc156e62799b601</sys_scope>
         <sys_update_name>sys_user_role_840cd86b2fd210106bc156e62799b6d7</sys_update_name>
         <sys_updated_by>admin.gkakazu</sys_updated_by>
-        <sys_updated_on>2020-08-04 02:31:58</sys_updated_on>
+        <sys_updated_on>2020-08-04 03:26:37</sys_updated_on>
     </sys_user_role>
 </record_update>
